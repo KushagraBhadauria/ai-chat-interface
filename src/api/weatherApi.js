@@ -23,7 +23,7 @@ export const fetchWeather = async (city) => {
       'jhasi': { temp: 37, description: 'Sunny', humidity: 26, city: 'jhasi'},
       'noida': { temp: 37, description: 'Sunny', humidity: 26, city: 'noida'},
       'gurugram': { temp: 37, description: 'Sunny', humidity: 26, city: 'gurugram'},
-      'faridabad': { temp: 37, description: 'Sunny', humidity: 26, city: 'kanpur'},
+      'faridabad': { temp: 37, description: 'Sunny', humidity: 26, city: 'faridabad'},
 
   };
 
