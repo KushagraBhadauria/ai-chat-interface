@@ -57,12 +57,3 @@ The system uses a `pluginManager` to handle commands.
     npm run dev
     ```
 4.  Open your browser to the specified local address (usually `http://localhost:5173`).
-
-## 💡 Potential Enhancements (Bonus Features)
-
-* Implement Natural Language Parsing.
-* Add loading/error states for API calls.
-* Support Markdown rendering.
-* Add a typing indicator.
-* Allow dynamic plugin loading.
-* Add more plugins (e.g., `/search`, `/image`, `/translate`).
